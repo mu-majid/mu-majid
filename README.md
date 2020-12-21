@@ -8,6 +8,7 @@ I am Majid, a backend developer from Egypt, Here are some ideas to get you start
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap).
 - 💻 I work using / I know:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  `Typescript`
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
@@ -19,7 +20,7 @@ I am Majid, a backend developer from Egypt, Here are some ideas to get you start
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  ![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  `MySQL`, and a little bit of `java`
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about anything that crosses your mind and let's talk about it.  
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mumajid-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mumajid/)](https://www.linkedin.com/in/mumajid/)
