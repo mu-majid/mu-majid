@@ -7,6 +7,6 @@ I am Majid, a backend developer from Egypt, Here are some ideas to get you start
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with CSS.
 - 💬 Ask me about `NodeJS`, `Backend Technologies`, `AWS`, `Design Patterns`, `Javascript`, and `ReactJS`
-- 📫 How to reach me: ![gmail](https://img.shields.io/badge/gmail-personal-red), ![in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mumajid/)
 - ⚡ Fun fact: I love talking about philosophy.
 
