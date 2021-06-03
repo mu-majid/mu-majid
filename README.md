@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Learning about microservices architecture;
+- ✨ Learning about microservices architecture with spring boot;
 - ✨ Learning Internals Of Relational Databases;
 - ✨ Learning React;
 
