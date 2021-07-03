@@ -7,6 +7,7 @@
 - ✨ Learning about microservices architecture with spring boot;
 - ✨ Learning Internals Of Relational Databases;
 - ✨ Learning React;
+- ✨ Reading Designing Data Intensive Applications Book;
 
 ##### BIO
 
