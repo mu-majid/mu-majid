@@ -4,10 +4,8 @@
 
 ##### NOW
 
-- ✨ Learning about microservices architecture with spring boot;
-- ✨ Learning Internals Of Relational Databases;
-- ✨ Learning React (NextJS + GraphQL);
-- ✨ Reading Designing Data Intensive Applications Book;
+- ✨ Learning about microservices architecture with GO;
+- ✨ Focusing more on Algorithms and Data Structures;
 
 ##### BIO
 
