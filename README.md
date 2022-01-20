@@ -6,6 +6,7 @@
 
 - ✨ Learning about microservices architecture with GO;
 - ✨ Focusing more on Algorithms and Data Structures;
+- ✨ Reading about System Desgin;
 
 ##### BIO
 
