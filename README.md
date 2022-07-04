@@ -2,6 +2,8 @@
 
 #### I'm a Full-Stack Developer (Backend Oriented) working in Berlin, Germany.
 
+Some Notes I took while learning different topics: https://majidnotes.netlify.app/
+
 ##### NOW
 
 - ✨ Learning about microservices architecture with GO;
