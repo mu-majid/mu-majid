@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Developer (Backend Oriented) located in Berlin, Germany.
+#### I'm a Fullstack Software Developer (Backend Oriented recently).
 
 
 ##### NOW
