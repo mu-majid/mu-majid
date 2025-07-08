@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Fullstack Software Developer (Backend Oriented recently).
+#### I'm a Fullstack Software Developer (Backend Focus).
 
 
 ##### NOW
